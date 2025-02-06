@@ -1,5 +1,5 @@
 # 💫 About Me:
-a full stack developer currently working as a back End engineer in Boardim.<br>using mainly node.js<br>
+a full stack developer currently working as a back End engineer in Boardim.<br>mainly using node.js<br>
 
 
 ## 🌐 Socials:
